@@ -141,7 +141,6 @@ uvicorn app.test1:fun --reload
   "tool_wear": 210
 }
 
----
 
 ### 專案流程
 
